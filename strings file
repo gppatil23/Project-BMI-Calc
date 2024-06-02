@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Enter your Weight</string>
+    <string name="heightF">Enter your Height(in Ft)</string>
+    <string name="heightI">Enter your Height(in Inch)</string>
+    <string name="button_txt">Calculate BMI</string>
+    <string name="develop">Developed By</string>
+    <string name="Gaurav">Gaurav Patil</string>
+    <string name="Develop">Information Technology</string>
+
+
+
+
+</resources>
